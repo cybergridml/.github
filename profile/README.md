@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cyber-Grid Architecture Modeling Language for Power Systems
 
 Welcome to **CyberGridML**, an open initiative focused on modeling cyber-physical power grid systems with **SysML v2**, **CyberGridML concepts**, and web-based engineering tools.
 
