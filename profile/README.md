@@ -45,7 +45,7 @@ Contributions are welcome.
 Good places to contribute include:
 
 * improving the CyberGridML SysML library;
-* adding or refining CFA, CRA, and CFRA diagram capabilities;
+* adding or refining Functional, Resources or Hazards capabilities;
 * improving model initialization and project templates;
 * strengthening tests and CI workflows;
 * improving documentation and examples;
