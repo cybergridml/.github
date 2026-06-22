@@ -19,6 +19,9 @@ The project currently focuses on:
 * **CFRA — Control Function / Resource Architecture**
   Bridging control functions with the computing and software resources that support them.
 
+* **Hazards**
+  Capturing hazardous situations and risk-related concerns at the heart of the model, so that cyber-physical architectures can be analyzed not only in terms of structure, but also in terms of potential failures, threats, vulnerabilities, and operational risks.
+
 The main application is built with **Java**, **Spring Boot**, **SysON**, and **Eclipse Sirius Web**, providing a web-based modeling experience around SysML v2 concepts.
 
 ## 👩‍💻 Main project
